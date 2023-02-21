@@ -120,7 +120,7 @@ export default class CrudComp extends React.Component {
                 <td>Name</td>
                 <td>Age</td>
                 <td>Place</td>
-                <td>Action</td>
+                <td>Actions</td>
               </tr>
             </thead>
             <tbody>
